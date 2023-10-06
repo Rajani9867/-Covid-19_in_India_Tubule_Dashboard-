@@ -1,1 +1,1 @@
-# -Covid-19_in_India_Tubule_Dashboard-
+# Covid-19_in_India_Tubule_Dashboard-"Throughout the challenging period of the COVID-19 pandemic, I led a Tubule project focused on analyzing and addressing the impact of the virus in India. This project involved extensive data collection, statistical analysis, and collaboration with healthcare professionals. By leveraging Tubule's powerful analytics tools, I provided crucial insights into the virus's spread, healthcare infrastructure, and vaccination progress."
